@@ -8,7 +8,7 @@
 
 ### Top repositórios:
 
-<a href="[https://github.com/kvrolinne/LP1-FACESG]">
+<a href="https://github.com/kvrolinne/LP1-FACESG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvrolinne&repo=LP1-FACESG&theme=midnight-purple" />
 </a>
 
