@@ -6,11 +6,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvrolinne&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Top repositórios:
-
-<a href="https://github.com/kvrolinne/LP1-FACESG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvrolinne&repo=ALG-FACESG&theme=midnight-purple" />
-</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linne-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
